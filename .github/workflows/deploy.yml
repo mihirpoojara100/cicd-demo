@@ -11,7 +11,7 @@ on:
       - dev
 
 env:
-  IMAGE_NAME: mihirpoojara/cicd-demo # 👈 change to your Docker Hub repo if different
+  IMAGE_NAME: mihirpoojara1310/cicd-demo # 👈 change to your Docker Hub repo if different
   IMAGE_TAG: latest
 
 jobs:
